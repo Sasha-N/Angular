@@ -6,4 +6,4 @@ var express = require('express'),
 	pg = require('pg'),
 	app = express();
 
-var connect = "postgres://username:password@localhost/database";
+var connect = "postgres://postgres:123456@localhost/Names_Ids";
